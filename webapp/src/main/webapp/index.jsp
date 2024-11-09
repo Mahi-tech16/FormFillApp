@@ -14,6 +14,12 @@
     <br>
 
 
+    <label for="AddarNO"><b>Addhar NO</b></label>
+    <input type="number" placeholder="Enter Addhar NO" name="Addar NO" id="Addhar No" required>
+    <br>
+
+
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
